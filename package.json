@@ -1,0 +1,8 @@
+{
+  "name": "typescript_basic_planning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nelson-oak/ne-typescript-basics.git",
+  "author": "Nelson Carvalho <nelson.carvalho.13@outlook.com>",
+  "license": "MIT"
+}
